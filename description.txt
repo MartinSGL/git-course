@@ -1,2 +1,0 @@
-archivo para inicial un repositorio con un archivo ya incluido en el 
-directorio
