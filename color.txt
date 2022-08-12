@@ -1,3 +1,5 @@
 azul
 rojo
 amarillo
+
+blanco y negro
